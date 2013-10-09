@@ -16,6 +16,6 @@ Firefox:
 ## Step 2: copy scripts
 
 ```bash
-git clone git@github.com:1ace/dotjs ~/.js
+git clone git@github.com:engeld/dotjs ~/.js
 ```
 
